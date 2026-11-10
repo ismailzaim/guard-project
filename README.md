@@ -236,10 +236,6 @@ Run the scripts in `postgresql/` on your PostgreSQL instance, then ingest the cu
 - Add schema contract management for Kafka messages.
 - Integrate other channels (SMS, Teams) and deploy on a managed cloud setup.
 
----
 
-## 👤 Author
 
-**Ismail Zaim**, Data & AI Engineer
-📍 Casablanca, Morocco
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+
